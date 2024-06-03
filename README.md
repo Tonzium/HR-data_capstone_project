@@ -1,4 +1,4 @@
-## Employee Attrition Analysis - Advanced Data Analytics Course Project
+## Employee Retention Analysis and Predictive Modeling - Advanced Data Analytics Course Project
 
 ### Project Overview
 
