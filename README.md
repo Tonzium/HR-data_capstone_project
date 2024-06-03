@@ -29,5 +29,5 @@ The dataset used in this project contains information on 15,000 employees with t
 | Department              | The employee's department                                   |
 | salary                  | The employee's salary (U.S. dollars)                        |
 
-For more detailed information about the data, refer to its source on Kaggle.
+For more detailed information about the data, refer to its source on [Kaggle](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv).
 
